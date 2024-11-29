@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Good Hoodie",
+    "img_url": "/image/1.webp",
+    "category": "top",
+    "price": 65000,
+    "gender": "Unisex",
+    "sizes": ["s", "m", "l"]
+  },
+  {
+    "id": 2,
+    "name": "Good dress",
+    "img_url": "/image/3.webp",
+    "category": "top",
+    "price": 85000,
+    "gender": "Woman",
+    "sizes": ["s", "m", "l"]
+  },
+  {
+    "id": 2,
+    "name": "Good dress",
+    "img_url": "/image/3.webp",
+    "category": "top",
+    "price": 85000,
+    "gender": "Woman",
+    "sizes": ["s", "m", "l"]
+  },
+  {
+    "id": 2,
+    "name": "Good dress",
+    "img_url": "/image/3.webp",
+    "category": "top",
+    "price": 85000,
+    "gender": "Woman",
+    "sizes": ["s", "m", "l"]
+  }
+]
